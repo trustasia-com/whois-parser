@@ -116,6 +116,7 @@ var (
 		"registrant nic hdl":                     "registrant_id",
 		"registrant nic handle":                  "registrant_id",
 		"registrant org id":                      "registrant_id",
+		"registrant":                             "registrant_id",
 		"registrant name":                        "registrant_name",
 		"registrant person":                      "registrant_name",
 		"registrant contact":                     "registrant_name",
@@ -124,6 +125,7 @@ var (
 		"registrant holder name":                 "registrant_name",
 		"registrant holder english name":         "registrant_name",
 		"registrant service provider":            "registrant_name",
+		"administrative contact":                 "registrant_name",
 		"registrant org":                         "registrant_organization",
 		"registrant organization":                "registrant_organization",
 		"registrant organization name":           "registrant_organization",
@@ -161,6 +163,7 @@ var (
 		"registrant contact phone":               "registrant_phone",
 		"registrant contact phone number":        "registrant_phone",
 		"registrant abuse contact phone":         "registrant_phone",
+		"ac phone number":                        "registrant_phone",
 		"registrant phone ext":                   "registrant_phone_ext",
 		"registrant contact phone ext":           "registrant_phone_ext",
 		"registrant fax":                         "registrant_fax",
@@ -182,5 +185,6 @@ var (
 		"registrant contact email":               "registrant_email",
 		"registrant contact e mail":              "registrant_email",
 		"registrant abuse contact email":         "registrant_email",
+		"ac e mail":                              "registrant_email",
 	}
 )
